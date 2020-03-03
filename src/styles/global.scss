@@ -1,0 +1,10 @@
+@import './variables';
+
+.app-main-container {
+	width: 80%;
+	margin: 40px auto;
+
+	&__controls {
+		margin-top: 10px;
+	}
+}
